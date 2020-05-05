@@ -50,8 +50,8 @@ This API acceptes a http post request and creates the order in SQL database
     - BillingZipCode is missing, reject it with http status code 400
         ![400 sample](image/400.png)
 
-    - Order is created successfully, return http status code 200
-        ![200 sample](image/201.png)
+    - Order is created successfully, return http status code 201
+        ![201 sample](image/201.png)
 
 
 ### 2. GetOrders
