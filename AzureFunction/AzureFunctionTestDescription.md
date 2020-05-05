@@ -36,7 +36,7 @@ This API acceptes a http post request and creates the order in SQL database
 
 - If any field is missing, reject it with a http status code 400.
 
-- If the order is created successfully, return http status code 200.
+- If the order is created successfully, return http status code 201.
 
 - Sample
 
@@ -51,7 +51,7 @@ This API acceptes a http post request and creates the order in SQL database
         ![400 sample](image/400.png)
 
     - Order is created successfully, return http status code 200
-        ![200 sample](image/200.png)
+        ![200 sample](image/201.png)
 
 
 ### 2. GetOrders
