@@ -1,4 +1,4 @@
-# Azure Functions App Test Description
+# Azure Functions App Test Instruction
 
 This test usually takes one to two hours to finish if you have the experience. 
 
