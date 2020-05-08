@@ -4,7 +4,7 @@ This test usually takes one to two hours to finish if you have the experience.
 
 You have up to five hours to finish it from the time we send this test description link to you. 
 
-Email your code to cloud-programmer@outlook.com before the deadline. Make sure the code file includes the script to creat the database. If you use Visual Studio develop the project, zip the whole solution and email the zip file.
+Email your code to developer@vibesbase.com before the deadline. Make sure the code file includes the script to creat the database. If you use Visual Studio develop the project, zip the whole solution and email the zip file.
 
 If you can finsh the optional ["Publish this Funciton App to Azure"](#publish-this-funciton-app-to-azure-optional), send the API link with your code together. 
 
@@ -79,7 +79,7 @@ This API acceptes a http get request and return the list of matched orders. Filt
 
 ## Publish this Funciton App to Azure (Optional)
 
-Once you publish this Azure Fuctions App, send the Web API link to cloud-programmer@outlook.com with your code together.
+Once you publish this Azure Fuctions App, send the Web API link to developer@vibesbase.com with your code together.
 
 ```diff
 - Do not send your code and Web API link separately. Both are counted on your total test time.
