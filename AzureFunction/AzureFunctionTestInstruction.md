@@ -10,6 +10,10 @@ If you can finsh the optional ["Publish this Funciton App to Azure"](#publish-th
 
 ## Use C# to create an Azure Functions App with the following two Web APIs.
 
+```diff
+- If you don't know how to use Azure Funciton App, you can use ASP.NET Web API.
+```
+
 ### 1. PostOrder
 
 This API acceptes a http post request and creates the order in SQL database
