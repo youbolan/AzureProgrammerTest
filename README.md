@@ -1,3 +1,3 @@
 # Azure Programmer Test
 
-## [Azure Functions App Test](AzureFunction/AzureFunctionTestDescription.md)
+## [Azure Functions App Test](AzureFunction/AzureFunctionTestInstruction.md)
