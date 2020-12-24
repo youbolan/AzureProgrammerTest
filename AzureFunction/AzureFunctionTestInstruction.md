@@ -16,7 +16,7 @@ Time is calculated from the moment we send this test description link to you.
 
 Email your code to qingfeng.tan@hurraymart.com before the deadline. Make sure the code file includes the script to creat the database. If you use Visual Studio to develop the project, zip the whole solution and email the zip file.
 
-If you need finsh Level 2 ["Publish this Funciton App to Azure"](#Level-2-Publish-this-Funciton-App-to-Azure), send the API link with your code together. 
+If you need finsh Level 2 ["Publish this Funciton App to Azure"](#level-2--publish-this-funciton-app-to-azure), send the API link with your code together. 
 
 ## Level 1: Use C# to create an Azure Functions App with the following two Web APIs.
 
@@ -99,7 +99,7 @@ Publish this Azure Fuctions App, send the Web API link to qingfeng.tan@hurraymar
 1. Unit test for the Web API. This may take much more time if you never practiced it before.
 2. Unit test for database operation. If you choose this one, make sure you separete the data access code, so you can write unit test.
 
-### UNIT test must cover the following case
+### UNIT test must cover the following cases
 1. Successfully insert a new record
 2. Cannot insert record with duplicate PurchaseOrderNumber
 3. Cannot insert record without BillingZipCode
