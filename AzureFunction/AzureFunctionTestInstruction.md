@@ -8,7 +8,7 @@ Email your code to qingfeng.tan@hurraymart.com before the deadline. Make sure th
 
 If you can finsh the optional ["Publish this Funciton App to Azure"](#publish-this-funciton-app-to-azure-optional), send the API link with your code together. 
 
-## Use C# to create an Azure Functions App with the following two Web APIs.
+##Level 1: Use C# to create an Azure Functions App with the following two Web APIs.
 
 ```diff
 - If you don't know how to use Azure Funciton App, you can use ASP.NET Web API.
@@ -79,7 +79,10 @@ This API acceptes a http get request and return the list of matched orders. Filt
         ![Filter BillingZipCode](image/FilterBillingZipCode.png)
 
 
+##Level 2:  UNIT test
 
+
+##Level 3: Publish App
 
 ## Publish this Funciton App to Azure (Optional)
 
@@ -89,3 +92,5 @@ Once you publish this Azure Fuctions App, send the Web API link to qingfeng.tan@
 - Do not send your code and Web API link separately. Both are counted on your total test time.
 - If you don't know how to publish, just send the code.
 ```
+
+##Level 4 Auto Deploy
