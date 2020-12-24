@@ -8,7 +8,7 @@ Email your code to qingfeng.tan@hurraymart.com before the deadline. Make sure th
 
 If you can finsh the optional ["Publish this Funciton App to Azure"](#publish-this-funciton-app-to-azure-optional), send the API link with your code together. 
 
-##Level 1: Use C# to create an Azure Functions App with the following two Web APIs.
+## Level 1: Use C# to create an Azure Functions App with the following two Web APIs.
 
 ```diff
 - If you don't know how to use Azure Funciton App, you can use ASP.NET Web API.
@@ -79,18 +79,22 @@ This API acceptes a http get request and return the list of matched orders. Filt
         ![Filter BillingZipCode](image/FilterBillingZipCode.png)
 
 
-##Level 2:  UNIT test
-
-
-##Level 3: Publish App
-
-## Publish this Funciton App to Azure (Optional)
+## Level 2:  Publish this Funciton App to Azure
 
 Once you publish this Azure Fuctions App, send the Web API link to qingfeng.tan@hurraymart.com with your code together.
 
-```diff
-- Do not send your code and Web API link separately. Both are counted on your total test time.
-- If you don't know how to publish, just send the code.
-```
+## Level 3: UNIT Test
 
-##Level 4 Auto Deploy
+### You have two options to write UNIT test.
+1. Unit test for the Web API, which may take much more time if you never practiced it before.
+2. Unit test for database operation. If you choose this one, make sure you separete the data access code, so you can write unit test.
+
+### UNIT test must cover the following case
+1. Successfully insert a new record
+2. Cannot insert record with duplicate PurchaseOrderNumber
+3. Cannot insert record without billing zip code
+4. Succeffully retrieve an exsiting record
+
+
+## Level 4 Auto Deploy
+
