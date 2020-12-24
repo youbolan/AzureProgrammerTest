@@ -85,8 +85,8 @@ Once you publish this Azure Fuctions App, send the Web API link to qingfeng.tan@
 
 ## Level 3: UNIT Test
 
-### You have two options to write UNIT test.
-1. Unit test for the Web API, which may take much more time if you never practiced it before.
+### You have two options to write UNIT test. You only need to choose one to implement.
+1. Unit test for the Web API. This may take much more time if you never practiced it before.
 2. Unit test for database operation. If you choose this one, make sure you separete the data access code, so you can write unit test.
 
 ### UNIT test must cover the following case
@@ -97,4 +97,6 @@ Once you publish this Azure Fuctions App, send the Web API link to qingfeng.tan@
 
 
 ## Level 4 Auto Deploy
-
+Use git as your source code control, for example github, bitbucket, Azure DevOps and gitee etc.
+Set a auto deploy script
+Once you push code, publish the app to Azure automatially. 
