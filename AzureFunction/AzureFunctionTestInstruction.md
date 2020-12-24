@@ -2,16 +2,21 @@
 
 This test usually takes two to three hours to finish all levels if you have the experience. 
 
-You have up to seven hours to finish all levels (Leve 1, Level 2, Leve l3 and Level 4). If don't need to finish all levels, please observe the following deadline:
+You have up to eight hours to finish all levels (Leve 1, Level 2, Leve l3 and Level 4). If don't need to finish all levels, please observe the following deadline:
+
 Level 1: Up to 4.5 hours
+
 Level 2: Up to 5 hours
+
 Level 3: Up to 6.5 hours
+
 Level 4: Up to 8 hours
-Time is calculated from the time we send this test description link to you
+
+Time is calculated from the moment we send this test description link to you.
 
 Email your code to qingfeng.tan@hurraymart.com before the deadline. Make sure the code file includes the script to creat the database. If you use Visual Studio to develop the project, zip the whole solution and email the zip file.
 
-If you can finsh Leve 2 ["Publish this Funciton App to Azure"](Level-2-Publish-this-Funciton-App-to-Azure), send the API link with your code together. 
+If you need finsh Level 2 ["Publish this Funciton App to Azure"](#Level-2-Publish-this-Funciton-App-to-Azure), send the API link with your code together. 
 
 ## Level 1: Use C# to create an Azure Functions App with the following two Web APIs.
 
@@ -86,7 +91,7 @@ This API acceptes a http get request and return the list of matched orders. Filt
 
 ## Level 2:  Publish this Funciton App to Azure
 
-Once you publish this Azure Fuctions App, send the Web API link to qingfeng.tan@hurraymart.com with your code together.
+Publish this Azure Fuctions App, send the Web API link to qingfeng.tan@hurraymart.com with your code together.
 
 ## Level 3: Unit Test
 
@@ -98,7 +103,7 @@ Once you publish this Azure Fuctions App, send the Web API link to qingfeng.tan@
 1. Successfully insert a new record
 2. Cannot insert record with duplicate PurchaseOrderNumber
 3. Cannot insert record without BillingZipCode
-4. Succeffully retrieve an exsiting record
+4. Successfully retrieve an exsiting record
 
 
 ## Level 4 Auto Deploy
