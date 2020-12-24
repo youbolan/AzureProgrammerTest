@@ -99,7 +99,7 @@ Publish this Azure Fuctions App, send the Web API link to qingfeng.tan@hurraymar
 1. Unit test for the Web API. This may take much more time if you never practiced it before.
 2. Unit test for database operation. If you choose this one, make sure you separete the data access code, so you can write unit test.
 
-### UNIT test must cover the following cases
+### Unit test must cover the following cases
 1. Successfully insert a new record
 2. Cannot insert record with duplicate PurchaseOrderNumber
 3. Cannot insert record without BillingZipCode
