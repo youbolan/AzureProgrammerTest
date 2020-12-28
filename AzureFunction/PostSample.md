@@ -1,7 +1,7 @@
 ## Post Sample
 
 Send post request to this url  
-    https://azurefuctionprogrammertest.azurewebsites.net/api/PostOrder?code=h/mhs6lAwBqpzIu5jjsmon2q3Gm7knRotEZg297ARjDbKotYOvjwTQ==
+    https://azurefuctionprogrammertest.azurewebsites.net/api/PostOrder?code=wg1yd6lkFOsund3n4KxoqPqA3KoRTj61pEj8ve4nWeaC4XD8lakjOA==
     
 - PurchseOrderNumber exists in the database, return http status code 204
 
