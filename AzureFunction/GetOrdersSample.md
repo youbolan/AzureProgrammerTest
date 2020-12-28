@@ -1,4 +1,4 @@
-## GetOrdersSample
+## GetOrders Sample
 
 Send GET request to this url  
 https://azurefuctionprogrammertest.azurewebsites.net/api/GetOrders?code=O/rucuU0heFhAbUcsk7b9atIVjHcNTumj/qOvLVSb45iYKOcqI0UaQ==
