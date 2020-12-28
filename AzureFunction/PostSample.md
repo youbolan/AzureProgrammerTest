@@ -1,4 +1,4 @@
-## Post Order Sample
+## PostOrder Sample
 
 Send post request to this url  
     https://azurefuctionprogrammertest.azurewebsites.net/api/PostOrder?code=wg1yd6lkFOsund3n4KxoqPqA3KoRTj61pEj8ve4nWeaC4XD8lakjOA==
