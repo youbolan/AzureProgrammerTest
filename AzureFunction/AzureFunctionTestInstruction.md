@@ -52,12 +52,12 @@ This API acceptes a http post request and creates the order in SQL database
 
 - If the order is created successfully, return http status code 201.
 
-- Post Order Sample: [https://github.com/vibesbase-cloud-developer/AzureProgrammerTest/blob/master/AzureFunction/PostSample.md](PostSample.md)
+- PostOrder Sample: [https://github.com/vibesbase-cloud-developer/AzureProgrammerTest/blob/master/AzureFunction/PostSample.md](PostSample.md)
 
 ### 2. GetOrders
 This API acceptes a http get request and return the list of matched orders. Filters on BuyerName, PurchaseOrderNum and BillingZipCode should also be implemented.
 
--Get order sample: [https://github.com/vibesbase-cloud-developer/AzureProgrammerTest/blob/master/AzureFunction/GetOrdersSample.md](GetOrderSample.md)
+-Getorders sample: [https://github.com/vibesbase-cloud-developer/AzureProgrammerTest/blob/master/AzureFunction/GetOrdersSample.md](GetOrderSample.md)
    
   
 ## Level 2:  Publish this Funciton App to Azure
