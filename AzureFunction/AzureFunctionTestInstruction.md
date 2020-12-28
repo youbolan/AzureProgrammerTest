@@ -77,7 +77,7 @@ Publish this Azure Fuctions App, send the Web API link to qingfeng.tan@hurraymar
 4. Successfully retrieve an exsiting record
 
 
-## Level 4 Auto Deploy
+## Level 4: Auto Deploy
 
 Use git as your source code control, for example github, bitbucket, Azure DevOps and gitee etc.
 
