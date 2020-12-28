@@ -16,7 +16,7 @@ Time is calculated from the moment we send this test description link to you.
 
 Email your code to qingfeng.tan@hurraymart.com before the deadline. Make sure the code file includes the script to creat the database. If you use Visual Studio to develop the project, zip the whole solution and email the zip file.
 
-If you need finsh Level 2 ["Publish this Funciton App to Azure"](#level-2--publish-this-funciton-app-to-azure), send the API link with your code together. 
+If you need to finsh Level 2 ["Publish this Funciton App to Azure"](#level-2--publish-this-funciton-app-to-azure), send the API link with your code together. 
 
 ## Level 1: Use C# to create an Azure Functions App with the following two Web APIs.
 
