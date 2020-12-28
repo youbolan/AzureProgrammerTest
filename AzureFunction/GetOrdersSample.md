@@ -7,7 +7,7 @@ https://azurefuctionprogrammertest.azurewebsites.net/api/GetOrders?code=O/rucuU0
  https://azurefuctionprogrammertest.azurewebsites.net/api/GetOrders?code=O/rucuU0heFhAbUcsk7b9atIVjHcNTumj/qOvLVSb45iYKOcqI0UaQ== 
     ![No Filter](image/NoFilter.png)
 - Apply filter on BuyerName, only returns the matched record.
-https://azurefuctionprogrammertest.azurewebsites.net/api/GetOrders?BuyerName=Test%20User%2004&code=code=O/rucuU0heFhAbUcsk7b9atIVjHcNTumj/qOvLVSb45iYKOcqI0UaQ==
+https://azurefuctionprogrammertest.azurewebsites.net/api/GetOrders?BuyerName=Test%20User%2004&code=O/rucuU0heFhAbUcsk7b9atIVjHcNTumj/qOvLVSb45iYKOcqI0UaQ==
     ![Filter BuyerName](image/FilterBuyerName.png)
 - Apply filter on PurchaseOrderNum, only returns the matched record.
 https://azurefuctionprogrammertest.azurewebsites.net/api/GetOrders?PurchaseOrderNumber=Test%20PO%2002&code=O/rucuU0heFhAbUcsk7b9atIVjHcNTumj/qOvLVSb45iYKOcqI0UaQ==
