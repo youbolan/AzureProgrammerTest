@@ -57,24 +57,9 @@ This API acceptes a http post request and creates the order in SQL database
 ### 2. GetOrders
 This API acceptes a http get request and return the list of matched orders. Filters on BuyerName, PurchaseOrderNum and BillingZipCode should also be implemented.
 
-- Sample
-    Send GET request to this url  
-    https://azureprogrammertest.azurewebsites.net/api/GetOrders?code=kuIRSoezYc/IpAVszJZz2jDlxiywOjnIg4uHYaA1aM1A6v9xeH0tCQ== <br /><br />
-
-    - Without any filter, returns all orders in the database. 
-     https://azureprogrammertest.azurewebsites.net/api/GetOrders?code=kuIRSoezYc/IpAVszJZz2jDlxiywOjnIg4uHYaA1aM1A6v9xeH0tCQ== 
-        ![No Filter](image/NoFilter.png)
-    - Apply filter on BuyerName, only returns the matched record.
-    https://azureprogrammertest.azurewebsites.net/api/GetOrders?BuyerName=Test%20User%2004&code=kuIRSoezYc/IpAVszJZz2jDlxiywOjnIg4uHYaA1aM1A6v9xeH0tCQ==
-        ![Filter BuyerName](image/FilterBuyerName.png)
-    - Apply filter on PurchaseOrderNum, only returns the matched record.
-    https://azureprogrammertest.azurewebsites.net/api/GetOrders?PurchaseOrderNumber=Test%20PO%2002&code=kuIRSoezYc/IpAVszJZz2jDlxiywOjnIg4uHYaA1aM1A6v9xeH0tCQ==
-        ![Filter PurchaseOrderNumber](image/FilterPO.png)
-    - Apply filter on BillingZipCode, only returns the matched record.
-    https://azureprogrammertest.azurewebsites.net/api/GetOrders?billingZipCode=30001&code=kuIRSoezYc/IpAVszJZz2jDlxiywOjnIg4uHYaA1aM1A6v9xeH0tCQ==
-        ![Filter BillingZipCode](image/FilterBillingZipCode.png)
-
-
+-Get order sample: [https://github.com/vibesbase-cloud-developer/AzureProgrammerTest/blob/master/AzureFunction/GetOrdersSample.md](GetOrderSample.md)
+   
+  
 ## Level 2:  Publish this Funciton App to Azure
 
 Publish this Azure Fuctions App, send the Web API link to qingfeng.tan@hurraymart.com with your code together.
