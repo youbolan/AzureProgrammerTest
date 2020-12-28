@@ -78,6 +78,9 @@ Publish this Azure Fuctions App, send the Web API link to qingfeng.tan@hurraymar
 
 
 ## Level 4 Auto Deploy
+
 Use git as your source code control, for example github, bitbucket, Azure DevOps and gitee etc.
+
 Setup a auto deploy script
+
 Once you push the code, publish the app to Azure automatially. 
