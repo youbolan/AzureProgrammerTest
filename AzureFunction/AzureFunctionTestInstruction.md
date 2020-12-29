@@ -14,7 +14,7 @@ Level 4: Up to 8 hours
 
 Time is calculated from the moment we send this test description link to you.
 
-Email your code to qingfeng.tan@hurraymart.com before the deadline. Make sure the code file includes the script to creat the database. If you use Visual Studio to develop the project, zip the whole solution and email the zip file.
+Email your code back before the deadline. Make sure the code file includes the script to creat the database. If you use Visual Studio to develop the project, zip the whole solution and email the zip file.
 
 If you need to finsh Level 3 ["Publish this Funciton App to Azure"](#level-3--publish-this-funciton-app-to-azure), send the API link with your code together. 
 
@@ -67,7 +67,7 @@ This API acceptes a http get request and return the list of matched orders. Filt
   
 ## Level 3:  Publish this Funciton App to Azure
 
-Publish this Azure Fuctions App, send the Web API link to qingfeng.tan@hurraymart.com with your code together.
+Publish this Azure Fuctions App, send the Web API link in the email along with your code together.
 
 
 
@@ -85,3 +85,5 @@ Use git as your source code control, for example github, bitbucket, Azure DevOps
 Setup a auto deploy script
 
 Once you push the code, publish the app to Azure automatially. 
+
+Send the auto deploy script in the email.
