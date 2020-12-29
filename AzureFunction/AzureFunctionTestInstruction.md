@@ -6,7 +6,7 @@ You have up to eight hours to finish all levels (Leve 1, Level 2, Leve l3 and Le
 
 Level 1: Up to 4.5 hours
 
-Level 2: Up to 5 hours
+Level 2: Up to 6 hours
 
 Level 3: Up to 6.5 hours
 
@@ -16,7 +16,7 @@ Time is calculated from the moment we send this test description link to you.
 
 Email your code to qingfeng.tan@hurraymart.com before the deadline. Make sure the code file includes the script to creat the database. If you use Visual Studio to develop the project, zip the whole solution and email the zip file.
 
-If you need to finsh Level 2 ["Publish this Funciton App to Azure"](#level-2--publish-this-funciton-app-to-azure), send the API link with your code together. 
+If you need to finsh Level 2 ["Publish this Funciton App to Azure"](#level-3--publish-this-funciton-app-to-azure), send the API link with your code together. 
 
 ## Level 1: Use C# to create an Azure Functions App with the following two Web APIs.
 
@@ -59,17 +59,17 @@ This API acceptes a http get request and return the list of matched orders. Filt
 
 - GetOrders sample: [https://github.com/vibesbase-cloud-developer/AzureProgrammerTest/blob/master/AzureFunction/GetOrdersSample.md](GetOrdersSample.md)
    
-  
-  
-## Level 2:  Publish this Funciton App to Azure
-
-Publish this Azure Fuctions App, send the Web API link to qingfeng.tan@hurraymart.com with your code together.
-
-## Level 3: Unit Test
+## Level 2: Unit Test
 
 ### You have two options to write unit test. You only need to choose one to implement.
 1. Unit test for the Web API. This may take much more time if you never practiced it before.
-2. Unit test for database operation. If you choose this one, make sure you separete the data access code, so you can write unit test.
+2. Unit test for database operation. If you choose this one, make sure you separete the data access code, so you can write unit test.  
+  
+## Level 3:  Publish this Funciton App to Azure
+
+Publish this Azure Fuctions App, send the Web API link to qingfeng.tan@hurraymart.com with your code together.
+
+
 
 ### Unit test must cover the following cases
 1. Successfully insert a new record
