@@ -67,7 +67,7 @@ This API acceptes a http get request and return the list of matched orders. Filt
   
 ## Level 3:  Publish this Funciton App to Azure
 
-Publish this Azure Fuctions App, send the Web API link in the email along with your code together.
+Publish this Azure Fuctions App to Azure, send the Web API link in the email along with your code together.
 
 
 
